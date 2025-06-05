@@ -3,7 +3,7 @@ My c programming practice
 # C-practice
 
 This repository contains my C language practice programs.  
-I'm Rohit Maisale, an aspiring software developer aiming for a high-paying job in Tokyo, Japan 🇯🇵.
+I'm Rohit Maisale, an aspiring software developer
 
 ## 🚀 What You’ll Find
 
