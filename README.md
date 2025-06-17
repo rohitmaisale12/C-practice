@@ -12,13 +12,9 @@ I'm Rohit Maisale, an aspiring software developer
 | hello.c       | Prints my name - my first C program! |
 | ...           | (More files coming soon)         |
 
-## 📚 Topics Covered
+## 📚 Topic Covered
 
 - Basic I/O
-- Loops
-- Functions
-- Pointers
-- Recursion (Coming soon)
 
 ## 🔧 How to Run
 
